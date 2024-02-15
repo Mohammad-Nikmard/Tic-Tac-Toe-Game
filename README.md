@@ -1,16 +1,10 @@
-# flutter_tic
+# TicTacToe Game
 
-A new Flutter project.
+## Overview 
 
-## Getting Started
+This is a tic-tac-toe game that has been written with dart and two players can play the game and have some fun. Users are able to reset the game or play the same match again with thier score being stored in the app. 
 
-This project is a starting point for a Flutter application.
+## Packages Used 
 
-A few resources to get you started if this is your first Flutter project:
+There are no specific packgaes used in this app.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
